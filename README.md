@@ -6,10 +6,6 @@
 This tutorial outlines the post-install configuration of the open-source help desk ticketing system osTicket.<br />
 
 
-<h2>Video Demonstration</h2>
-
-- ### [YouTube: Post-Install Configuration Objectives Playlist ](https://www.youtube.com/playlist?list=PLRwChl0ROcE7yfqEbbmVsT3gcU5yXW7VP)
-
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
